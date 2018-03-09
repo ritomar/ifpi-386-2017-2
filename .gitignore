@@ -1,1 +1,3 @@
 *.docx
+Ex01/venv/*
+Ex01/.idea/*
